@@ -1,0 +1,12 @@
+numpy==1.19.2
+pandas==0.25.3
+keras==2.3.1
+tensorflow==2.2.2
+h5py==2.10.0
+protobuf==3.16.0
+scikit-learn==0.22.2.post1
+Django==2.1.7
+playsound==1.2.2
+opencv-python==4.1.2.30
+opencv-contrib-python==4.3.0.36
+ 
